@@ -19,9 +19,8 @@ I'm passionate about technology, open source, and building impactful projects.
 ![Rak626's GitHub stats](https://github-readme-stats.vercel.app/api?username=rak626&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 
 ## 📫 How to reach me
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- Email: [rakeshacot@gmail.com]
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/ghoshrakesh626)
 
 ## ⚡ Fun Fact
 I believe learning never stops and collaboration leads to great innovation!
