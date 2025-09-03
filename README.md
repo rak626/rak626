@@ -1,4 +1,4 @@
-# Hi there, I'm Rak626 👋
+# Hi there, I'm Rakesh Ghosh 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, open source, and building impactful projects.
