@@ -16,7 +16,7 @@ I'm passionate about technology, open source, and building impactful projects.
 
 ## 📈 GitHub Stats
 
-![Rak626's GitHub stats](https://github-readme-stats.vercel.app/api?username=rak626&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+![Rak626's GitHub stats](https://github-readme-stats.vercel.app/api?username=rak626&show_icons=true&hide_title=true&count_private=true&theme=monokai)
 
 ## 📫 How to reach me
 - Email: [rakeshacot@gmail.com]
