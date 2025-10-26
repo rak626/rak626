@@ -9,8 +9,8 @@ I'm passionate about technology, open source, and building impactful projects.
 - 🔭 Always exploring new ideas and tools in software development
 
 ## 🛠️ Skills & Tools
-- Languages: Python, JavaScript, TypeScript, Java, C++
-- Frameworks: React, Node.js, Django, Express
+- Languages: Java, JavaScript, TypeScript, C++, Python
+- Frameworks: React, Node.js, Express
 - Tools: Git, Docker, Linux, VS Code
 - Cloud: AWS, Azure, Firebase
 
